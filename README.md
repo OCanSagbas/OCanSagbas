@@ -10,7 +10,7 @@
 ---
 
 ### 🛠️ ** Bazı Projelerim:**
-- **[AI-DataScience Repository](https://github.com/OCanSagbas/Advanced-AI-Training-Codes):**
+- **[Advanced-AI-Training-Codes](https://github.com/OCanSagbas/Advanced-AI-Training-Codes):**
   Yapay zeka ve veri bilimi projelerimi burada bulabilirsiniz.
 - **[Kitabevi Veritabanı Yönetim Sistemi](https://github.com/OCanSagbas/Kitabevi-Veritabani):**
   Veritabanı ve SQL projelerim.

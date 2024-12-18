@@ -1,16 +1,26 @@
-## Hi there 👋
+# 🌟 Merhaba, Ben Ömer Can Sağbaş! 🌟
 
-<!--
-**OCanSagbas/OCanSagbas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Hakkımda:
+- 💻 **Yapay Zeka ve Veri Bilimi Uzmanı**
+- 🎓 Eğitim: Hacettepe Üniversitesi, Veri ve Bilişim Sistemleri Yüksek Lisans Mezunu
+- 🛠️ **Uzmanlık Alanlarım:** Python, Makine Öğrenimi, Veri Analizi, SQL
+- 🌟 İlgi Alanlarım: NLP, Büyük Veri ve Derin Öğrenme
+- 🌍 **Hedefim:** Avrupa'da bir teknoloji şirketinde çalışarak kariyerime katkıda bulunmak.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ ** Bazı Projelerim:**
+- **[AI-DataScience Repository](https://github.com/OCanSagbas/AI-DataScience):**
+  Yapay zeka ve veri bilimi projelerimi burada bulabilirsiniz.
+- **[Kitabevi Veritabanı Yönetim Sistemi](https://github.com/OCanSagbas/Kitabevi-Veritabani):**
+  Veritabanı ve SQL projelerim.
+
+---
+
+### 📈 **GitHub İstatistiklerim**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OCanSagbas&show_icons=true&theme=radical)
+
+---
+
+### 📫 Bana Ulaşın:
+- **LinkedIn:** [Ömer Can Sağbaş](https://www.linkedin.com/in/omercansagbas/)

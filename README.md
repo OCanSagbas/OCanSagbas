@@ -1,26 +1,41 @@
-# 🌟 Merhaba, Ben Ömer Can Sağbaş! 🌟
+# 🌟 Hi, I'm Ömer Can Sağbaş! 🌟
 
-### 👨‍💻 Hakkımda:
-- 💻 **Yapay Zeka ve Veri Bilimi Uzmanı**
-- 🎓 Eğitim: Hacettepe Üniversitesi, Veri ve Bilişim Sistemleri Yüksek Lisans Mezunu
-- 🛠️ **Uzmanlık Alanlarım:** Python, Makine Öğrenimi, Veri Analizi, SQL
-- 🌟 İlgi Alanlarım: NLP, Büyük Veri ve Derin Öğrenme
-- 🌍 **Hedefim:** Avrupa'da bir teknoloji şirketinde çalışarak kariyerime katkıda bulunmak.
+### 👨‍💻 About Me
 
----
+I'm an AI & Machine Learning Engineer with a strong background in Data Science and applied NLP.  
+I hold a Master’s degree in Information and Data Systems from Hacettepe University and focus on building end-to-end machine learning pipelines — from data preprocessing to model deployment.
 
-### 🛠️ **Bazı Projelerim:**
-- **[Advanced-AI-Training-Codes](https://github.com/OCanSagbas/Advanced-AI-Training-Codes):**
-  Yapay zeka ve veri bilimi projelerimi burada bulabilirsiniz.
-- **[Kitabevi Veritabanı Yönetim Sistemi](https://github.com/OCanSagbas/Kitabevi-Veritabani):**
-  Veritabanı ve SQL projelerim.
+I enjoy transforming research-level models into practical applications and have hands-on experience with transformer fine-tuning, feature engineering, and interactive ML demos.
+
+- 💻 AI & Machine Learning Engineer  
+- 🎓 M.Sc. in Information & Data Systems — Hacettepe University  
+- 🛠️ Core Skills: Python, Machine Learning, Data Analysis, SQL  
+- 🌟 Interests: Natural Language Processing (NLP), Large Language Models, Big Data, Deep Learning  
+- 🌍 Career Goal: Contribute to impactful AI products at technology companies in Europe  
 
 ---
 
-### 📈 **GitHub İstatistiklerim**
+### 🛠️ Featured Projects
+
+- **Advanced-AI-Training-Codes**  
+  A collection of AI and Data Science projects, including machine learning experiments and model development workflows.
+
+- **Bookstore Database Management System**  
+  SQL-based database project demonstrating relational modeling and backend data operations.
+
+- **Yelp Review Summarization & Rating-Based Text Generation**  
+  End-to-end NLP project using T5 for abstractive summarization, DistilGPT-2 for rating-conditioned text generation, embedding-based rating prediction, and Streamlit deployment.
+
+---
+
+### 📈 GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OCanSagbas&show_icons=true&theme=radical)
 
 ---
 
-### 📫 Bana Ulaşın:
-- **LinkedIn:** [Ömer Can Sağbaş](https://www.linkedin.com/in/omercansagbas/)
+### 📫 Let's Connect
+
+- LinkedIn: https://www.linkedin.com/in/omercansagbas/
+
+I'm always open to collaboration, learning opportunities, and discussions around machine learning, NLP, and real-world AI applications.

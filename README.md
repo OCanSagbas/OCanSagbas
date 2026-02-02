@@ -28,12 +28,6 @@ I enjoy transforming research-level models into practical applications and have 
 
 ---
 
-### 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OCanSagbas&show_icons=true&theme=radical)
-
----
-
 ### 📫 Let's Connect
 
 - LinkedIn: https://www.linkedin.com/in/omercansagbas/
